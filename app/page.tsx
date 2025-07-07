@@ -25,7 +25,8 @@ export default function Home() {
   }
 
   return (
-    <main className="flex min-h-screen items-center justify-center bg-[#5B34FF] text-white px-4">
+    <main className="main-block">
+ className="flex min-h-screen items-center justify-center bg-[#5B34FF] text-white px-4">
       <div className="w-full max-w-md">
         {/* Tab Switcher */}
         <div className="mb-6 flex rounded-xl bg-white/10 p-1">
